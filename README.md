@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash-panthri
 - 👀 I’m interested in working on some cool projects
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning Django
 - 📫 How to reach me akashpanthri2000@gmail.com
 -  <a href="https://www.linkedin.com/in/akash-panthri/" target="_blank"> <img align="center" src='https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg' alt="LinkedIn" width="60" height="100" />
 </a>
